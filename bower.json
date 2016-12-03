@@ -1,0 +1,6 @@
+{
+  "name": "dz_portfolio",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
