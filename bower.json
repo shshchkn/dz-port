@@ -1,6 +1,7 @@
 {
   "name": "dz_portfolio",
   "dependencies": {
-    "jquery": "1.11"
+    "jquery": "1.11",
+    "normalize-css": "normalize.css#^5.0.0"
   }
 }
